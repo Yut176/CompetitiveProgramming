@@ -1,2 +1,3 @@
-./a.cpp
-./a.out
+.DS_Store
+a.cpp
+a.out
