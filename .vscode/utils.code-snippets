@@ -1,0 +1,14 @@
+{
+  "pair": {
+    "prefix": "pii",
+    "body": "pair<int, int> $1"
+  },
+  "vector": {
+    "prefix": "vi",
+    "body": "vector<int> $1"
+  },
+  "longlong": {
+    "prefix": "ll",
+    "body": "long long $1"
+  }
+}
