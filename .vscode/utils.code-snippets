@@ -10,5 +10,9 @@
   "longlong": {
     "prefix": "ll",
     "body": "long long $1"
+  },
+  "push_back": {
+    "prefix": "pb",
+    "body": "push_back($1)"
   }
 }
