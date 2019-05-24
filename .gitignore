@@ -1,8 +1,4 @@
 .DS_Store
-!.contest
-a.cpp
-a.out
-.DS_Store
 !.contest/*
 a.cpp
 a.out
