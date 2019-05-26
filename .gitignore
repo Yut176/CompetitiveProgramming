@@ -2,3 +2,4 @@
 !.contest/*
 a.cpp
 a.out
+.vscode/ipch/*
