@@ -1,1 +1,1 @@
-g++-8 -std=c++11 a.cpp
+g++-8 -std=c++11 -O2 a.cpp
